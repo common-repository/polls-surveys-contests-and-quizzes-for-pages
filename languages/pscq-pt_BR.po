@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-10 16:08+0000\n"
+"PO-Revision-Date: 2021-01-26 16:56+0000\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language: pt\n"
+"Language-Team: Portuguese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "Polls, Surveys, Contests and Quizzes for Pages"
+msgstr "Sondages, Concours et Quiz pour Pages"
+
+#. Imperative
+# INSTRUCTION: Imperative
+msgid "Embed polls, surveys, contests and quizzes into your WordPress site and get valuable feedback from your customers."
+msgstr "Incorpore enquetes, promoções e quizzes em seu site WordPress e receba feedback valioso de seus clientes."
+
+msgid "https://poll-app.com/wordpress"
+msgstr "https://enquete-app.com/wordpress"
+
+msgid "https://coderubik.com"
+msgstr "https://www.coderubik.com/pt/"
+
+msgid "blog_post_url"
+msgstr "https://enquete-app.com/wordpress"
+
+msgid "gutenberg_block_name"
+msgstr "Enquete, Promoção ou Quiz"
+
+#. Imperative
+# INSTRUCTION: Imperative
+msgid "gutenberg_block_description"
+msgstr "Incorpore uma enquete, promoção ou quiz no seu site WordPress."
+
+#. Infinitive
+# INSTRUCTION: Infinitive
+msgid "media_button_label"
+msgstr "Insira um questionário"
+
+msgid "instructions"
+msgstr "Cole a URL de compartilhamento para o questionário que você quer exibir na página."
+
+msgid "textbox_placeholder"
+msgstr "Insira sua URL de compartilhamento aqui..."
+
+msgid "classic_modal_title"
+msgstr "Sondages, Concours et Quiz pour Pages"
+
+#. Infinitive
+# INSTRUCTION: Infinitive
+msgid "classic_submit_button"
+msgstr "Inserir"
+
+#. Infinitive
+# INSTRUCTION: Infinitive
+msgid "gutenberg_submit_button"
+msgstr "Visualizar"
+
+#. Imperative
+# INSTRUCTION: Imperative
+msgid "learn_more"
+msgstr "Saiba mais sobre incorporações"
+
+msgid "error_message"
+msgstr "A URL inserida é inválida. Você encontrará a URL de compartilhamento na seção Publicar do app."
+

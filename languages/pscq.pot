@@ -1,0 +1,57 @@
+# This file is distributed under the same license as Polls, Surveys, Contests and Quizzes plugin.
+# msgfmt pscq-en_US.po -o pscq-en_US.mo
+msgid ""
+msgstr ""
+"Project-Id-Version: pscq 1.0\n"
+"Report-Msgid-Bugs-To: mailto:support@coderubik.com\n"
+"Last-Translator: Code Rubik <support@coderubik.com>\n"
+"Language-Team: Code Rubik <support@coderubik.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-11-13T14:52:36+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: pscq\n"
+
+msgid "Polls, Surveys, Contests and Quizzes for Pages"
+msgstr ""
+
+msgid "Embed polls, surveys, contests and quizzes into your WordPress site and get valuable feedback from your customers."
+msgstr ""
+
+msgid "https://poll-app.com/worpdress"
+msgstr ""
+
+msgid "blog_post_url"
+msgstr ""
+
+msgid "gutenberg_block_name"
+msgstr ""
+
+msgid "gutenberg_block_description"
+msgstr ""
+
+msgid "media_button_label"
+msgstr ""
+
+msgid "instructions"
+msgstr ""
+
+msgid "textbox_placeholder"
+msgstr ""
+
+msgid "classic_modal_title"
+msgstr """
+
+msgid "classic_submit_button"
+msgstr ""
+
+msgid "gutenberg_submit_button"
+msgstr ""
+
+msgid "learn_more"
+msgstr ""
+
+msgid "error_message"
+msgstr ""

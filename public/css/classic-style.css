@@ -1,0 +1,90 @@
+#pscq-editor-button .pscq-editor-button-image {
+  background-image: url("../img/poll-icon.svg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 16px auto;
+  display: inline-block;
+  vertical-align: -2px;
+  width: 16px;
+  height: 16px;
+  text-align: center;
+  margin-right: 2px;
+}
+
+#pscq-modal-bg {
+  background-color: #000;
+  opacity: 0.7;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 100050;
+}
+
+#pscq-modal {
+  display: none;
+}
+
+#pscq-modal .pscq-modal-content {
+  z-index: 100050;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  padding: 40px 50px;
+  max-width: 600px;
+  width: 70%;
+  line-height: 1.5;
+  font-size: 14px;
+}
+
+#pscq-modal h1 {
+  font-size: 25px;
+  line-height: 1.5;
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+#pscq-modal-close {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 50px;
+  height: 50px;
+  color: #666;
+  cursor: pointer;
+  background: none;
+  border: none;
+}
+
+#pscq-modal-close:hover {
+  color: #006799;
+}
+
+#pscq-modal .pscq-modal-instructions {
+  padding-bottom: 15px;
+}
+
+#pscq-modal-form {
+  margin-bottom: 15px;
+}
+
+#pscq-modal-errors {
+  margin-bottom: 15px;
+  color: #a00;
+}
+
+#pscq-modal-errors:empty {
+  display: none;
+}
+
+#pscq-modal input[type="text"] {
+  width: 100%;
+  font-size: 14px;
+}
+
+#pscq-modal button.button-primary {
+  margin-top: 12px;
+}

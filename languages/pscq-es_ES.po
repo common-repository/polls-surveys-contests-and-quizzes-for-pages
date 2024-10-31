@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-10 16:08+0000\n"
+"PO-Revision-Date: 2021-01-26 16:56+0000\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language: es\n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "Polls, Surveys, Contests and Quizzes for Pages"
+msgstr "Encuestas, Concursos y Quizes para Páginas"
+
+#. Imperative
+# INSTRUCTION: Imperative
+msgid "Embed polls, surveys, contests and quizzes into your WordPress site and get valuable feedback from your customers."
+msgstr "Inserte encuestas, concursos y quizzes en su sitio web de WordPress y reciba retroalimentación valiosa de sus clientes."
+
+msgid "https://poll-app.com/wordpress"
+msgstr "https://encuesta-app.com/wordpress"
+
+msgid "https://coderubik.com"
+msgstr "https://www.coderubik.com/es/"
+
+msgid "blog_post_url"
+msgstr "https://encuesta-app.com/wordpress"
+
+msgid "gutenberg_block_name"
+msgstr "Encuesta, Concurso o Quiz"
+
+#. Imperative
+# INSTRUCTION: Imperative
+msgid "gutenberg_block_description"
+msgstr "Inserte una encuesta, concurso o quiz en su sitio web de WordPress."
+
+#. Infinitive
+# INSTRUCTION: Infinitive
+msgid "media_button_label"
+msgstr "Insertar un cuestionario"
+
+msgid "instructions"
+msgstr "Pegue la URL para compartir el cuestionario que desea mostrar en la página."
+
+msgid "textbox_placeholder"
+msgstr "Introduzca la URL para compartir aquí..."
+
+msgid "classic_modal_title"
+msgstr "Encuestas, Concursos y Quizes para Páginas"
+
+#. Infinitive
+# INSTRUCTION: Infinitive
+msgid "classic_submit_button"
+msgstr "Insertar"
+
+#. Infinitive
+# INSTRUCTION: Infinitive
+msgid "gutenberg_submit_button"
+msgstr "Visualizar"
+
+#. Imperative
+# INSTRUCTION: Imperative
+msgid "learn_more"
+msgstr "Conozca más sobre la función de insertar"
+
+msgid "error_message"
+msgstr "La URL que ingresó no es válida. Puede encontrar la URL para compartir en la sección de Publicar de la aplicación."
+

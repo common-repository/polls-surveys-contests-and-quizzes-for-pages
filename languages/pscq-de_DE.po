@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-10 16:08+0000\n"
+"PO-Revision-Date: 2021-01-26 16:56+0000\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language: de\n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WebTranslateIt.com\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "Polls, Surveys, Contests and Quizzes for Pages"
+msgstr "Umfragen, Gewinnspiele und Quiz für Seiten"
+
+#. Imperative
+# INSTRUCTION: Imperative
+msgid "Embed polls, surveys, contests and quizzes into your WordPress site and get valuable feedback from your customers."
+msgstr "Betten Sie Umfragen, Gewinnspiele und Quiz direkt in Ihre WordPress Site ein und erhalten Sie wertvolles Feedback von Ihren Kunden."
+
+msgid "https://poll-app.com/wordpress"
+msgstr "https://umfrage-app.com/wordpress"
+
+msgid "https://coderubik.com"
+msgstr "https://www.coderubik.com/de/"
+
+msgid "blog_post_url"
+msgstr "https://umfrage-app.com/wordpress"
+
+msgid "gutenberg_block_name"
+msgstr "Umfrage, Gewinnspiel oder Quiz"
+
+#. Imperative
+# INSTRUCTION: Imperative
+msgid "gutenberg_block_description"
+msgstr "Betten Sie einen Fragebogen für Umfragen, Gewinnspiele oder Quiz in Ihre WordPress-Site ein."
+
+#. Infinitive
+# INSTRUCTION: Infinitive
+msgid "media_button_label"
+msgstr "Fragebogen einbetten"
+
+msgid "instructions"
+msgstr "Fügen Sie die URL zum Teilen des Fragebogens, welcher auf der Seite angezeigt werden soll, ein."
+
+msgid "textbox_placeholder"
+msgstr "Geben Sie hier die URL zum Teilen ein ..."
+
+msgid "classic_modal_title"
+msgstr "Umfragen, Gewinnspiele und Quiz für Seiten"
+
+#. Infinitive
+# INSTRUCTION: Infinitive
+msgid "classic_submit_button"
+msgstr "Einfügen"
+
+#. Infinitive
+# INSTRUCTION: Infinitive
+msgid "gutenberg_submit_button"
+msgstr "Vorschau"
+
+#. Imperative
+# INSTRUCTION: Imperative
+msgid "learn_more"
+msgstr "Mehr über Einbettungen erfahren"
+
+msgid "error_message"
+msgstr "Die eingegebene URL ist ungültig. Die URL zum Teilen finden Sie im in der App im Abschnitt Freigabe."
+
